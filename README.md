@@ -1,5 +1,6 @@
-# Business casestudy 
-SQL Project
+# EDA OF FOREIGN RETAILER IN BRAZIL
+
+## INTRODUCTION
 * THis
 * is[sk
 * kkk
