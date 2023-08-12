@@ -89,14 +89,14 @@ Top 10 Cities where most of the customers reside
 <hr>
 
 
-% difference in each month of 2017 and 2018
+% difference in sales for each month of 2017 and 2018
 
 
 [![Capture16.png](https://i.postimg.cc/ncDG5X76/Capture16.png)](https://postimg.cc/w79NRTwV)
 
 <hr>
 
-% difference in total sales from (Jan to Aug) for 2017 and 2018
+% difference in total sales from (Jan to Aug) of 2017 and 2018
 
 
 [![Capture17.png](https://i.postimg.cc/Y24PrqYx/Capture17.png)](https://postimg.cc/yWHjnKfJ)
