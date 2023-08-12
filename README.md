@@ -82,6 +82,17 @@ Total no of distinct states, cities, and zip codes in which customers are presen
 Top 10 Cities where most of the customers reside
 
 [![Capture15.png](https://i.postimg.cc/Xqxy50yc/Capture15.png)](https://postimg.cc/MfMTkN5v)
+
+<hr>
+% difference in each month of 2017 and 2018
+
+[![Capture16.png](https://i.postimg.cc/ncDG5X76/Capture16.png)](https://postimg.cc/w79NRTwV)
+
+<hr>
+
+% difference in total sales from (Jan to Aug) for 2017 and 2018
+[![Capture17.png](https://i.postimg.cc/Y24PrqYx/Capture17.png)](https://postimg.cc/yWHjnKfJ)
+<hr>
     
     
   
