@@ -51,7 +51,7 @@ Target is one of the world’s most recognized brands and one of America’s lea
 
 <hr>
 
-**Time zone in which most Brazilian customers tend to buy**
+Time zone in which most Brazilian customers tend to buy
 
 [![Capture11.png](https://i.postimg.cc/hv77TMXG/Capture11.png)](https://postimg.cc/Lg2XMtBd)
 
