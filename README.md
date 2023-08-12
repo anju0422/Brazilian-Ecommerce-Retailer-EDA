@@ -37,7 +37,7 @@ Target is one of the world’s most recognized brands and one of America’s lea
    
 
  
-**Insight **
+__Insight._
 
 [![Capture10.png](https://i.postimg.cc/BQrVXW32/Capture10.png)](https://postimg.cc/QHqbyyHM)
 
