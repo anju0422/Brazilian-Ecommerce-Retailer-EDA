@@ -4,6 +4,8 @@
 ### INTRODUCTION
 Target is one of the world’s most recognized brands and one of America’s leading retailers. This business case has information of 100k orders from 2016 to 2018 made at Target in Brazil. Its features allows viewing an order from multiple dimensions: from order status, delivery time, order price, payment details, freight performance and customer location. We have to generate business insights and provide recommendations (backed by data) using this dataset.
 
+<hr>
+
 
 ### CASE STUDY QUESTIONS
 * Time period for which the data is given
@@ -32,6 +34,8 @@ Target is one of the world’s most recognized brands and one of America’s lea
     - EMI and Non-EMI order count split
 * Distribution of payment installments and count of orders
 
+  <hr>
+
 
   ### INSIGHTS: -
    
@@ -55,6 +59,10 @@ Target is one of the world’s most recognized brands and one of America’s lea
     for online purchases among Brazilian customers.
 
   <hr>
+
+  **Distribution of customers across the Brazil region
+  
+  [![Capture2.png](https://i.postimg.cc/zG7G7kdp/Capture2.png)](https://postimg.cc/CRZ0Lbpf)
 
   [![Capture32.png](https://i.postimg.cc/sDYkshmF/Capture32.png)](https://postimg.cc/crJ9c6PT)
 
