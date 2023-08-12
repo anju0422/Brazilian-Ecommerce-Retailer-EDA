@@ -13,7 +13,11 @@ Target is one of the world’s most recognized brands and one of America’s lea
 * During what time of the day, do the Brazilian customers mostly place their orders? (Dawn, Morning, Afternoon or Night)
 * Get the month-on-month orders by region and state
 * How are customers distributed in Brazil?
-mdmm.m.md.md/.mdnxnx
+* Get the % increase in the cost of orders from the year 2017 to 2018 (include months between Jan to Aug only)
+* Mean & Sum of price and freight value by a customer state
+* Calculate days between purchasing, delivering, and estimated delivery
+   - time_to_delivery  =  order_purchase_timestamp - order_delivered_customer_date
+
 
 [![Capture10.png](https://i.postimg.cc/BQrVXW32/Capture10.png)](https://postimg.cc/QHqbyyHM)
 
