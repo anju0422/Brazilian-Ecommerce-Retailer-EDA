@@ -58,6 +58,7 @@ Target is one of the world’s most recognized brands and one of America’s lea
 * SP with 41,746 customers
 * RJ with 12,852 customers
 * MG with 11,635 customers
+
   States with relatively lower customer counts include: -
 * AC with 81 customers
 * AP with 68 customers
