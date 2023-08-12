@@ -47,9 +47,9 @@ Target is one of the world’s most recognized brands and one of America’s lea
 
   [![Capture11.png](https://i.postimg.cc/hv77TMXG/Capture11.png)](https://postimg.cc/Lg2XMtBd)
 
-  * The data shows that the highest number of orders (38,361) were placed during the afternoon, indicating that a significant portion of 
+* The data shows that the highest number of orders (38,361) were placed during the afternoon, indicating that a significant portion of 
     Brazilian customers prefers to make their purchases during this time.
-  * The data indicates the least number of orders (4740) placed during the dawn period, suggesting that it is the least preferred time 
+* The data indicates the least number of orders (4740) placed during the dawn period, suggesting that it is the least preferred time 
     for online purchases among Brazilian customers.
     
     
