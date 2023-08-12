@@ -41,8 +41,5 @@ Target is one of the world’s most recognized brands and one of America’s lea
 
 [![Capture10.png](https://i.postimg.cc/BQrVXW32/Capture10.png)](https://postimg.cc/QHqbyyHM)
 
-
-
-# H 1
-## H 2
-### H 3
+* There is a noticeable and consistent growing trend on e-commerce in Brazil from the year 2016 to 2018.
+* Seasonality can be observed within the data, with distinct peaks occurring in November 2017, followed by January 2018 and March 2018. These months experienced a significant surge in the number of orders placed, indicating a seasonal trend within the e-commerce market.
