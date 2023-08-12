@@ -60,9 +60,11 @@ Target is one of the world’s most recognized brands and one of America’s lea
 
   <hr>
 
-  **Distribution of customers across the Brazil region
+  **Total no of distinct states, cities and zip codes in which customers are present**
   
-  [![Capture2.png](https://i.postimg.cc/zG7G7kdp/Capture2.png)](https://postimg.cc/CRZ0Lbpf)
+[![Capture13.png](https://i.postimg.cc/TP2FjVSV/Capture13.png)](https://postimg.cc/3k6tYv3N)
+
+<hr>
 
   [![Capture32.png](https://i.postimg.cc/sDYkshmF/Capture32.png)](https://postimg.cc/crJ9c6PT)
 
