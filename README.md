@@ -34,7 +34,7 @@ Target is one of the world’s most recognized brands and one of America’s lea
     - EMI and Non-EMI order count split
 * Distribution of payment installments and count of orders
 
-  <hr>
+<hr>
 
 
   ### INSIGHTS: -
@@ -49,7 +49,7 @@ Target is one of the world’s most recognized brands and one of America’s lea
 * There is a noticeable and consistent growing trend on e-commerce in Brazil from the year 2016 to 2018.
 * Seasonality can be observed within the data, with distinct peaks occurring in November 2017, followed by January 2018 and March 2018. These months experienced a significant surge in the number of orders placed, indicating a seasonal trend within the e-commerce market.
 
-  <hr>
+<hr>
 
   [![Capture11.png](https://i.postimg.cc/hv77TMXG/Capture11.png)](https://postimg.cc/Lg2XMtBd)
 
