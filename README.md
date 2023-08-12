@@ -1,4 +1,4 @@
-# BUSINESS CASE STUDY: E-COMMERCE SALES ANALYSIS IN BRAZIL
+# Business Case Study: E-Commerce Sales Analysis in Brazil
 
 
 ## INTRODUCTION
