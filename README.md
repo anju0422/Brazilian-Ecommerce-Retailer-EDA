@@ -1,2 +1,2 @@
-# SQL
+# EDA 
 SQL Project
