@@ -79,7 +79,9 @@ Total no of distinct states, cities, and zip codes in which customers are presen
 * RR with 46 customers
 
   <hr>
+Top 10 Cities where most of the customers reside
 
+[![Capture15.png](https://i.postimg.cc/Xqxy50yc/Capture15.png)](https://postimg.cc/MfMTkN5v)
     
     
   
