@@ -18,6 +18,19 @@ Target is one of the world’s most recognized brands and one of America’s lea
 * Calculate days between purchasing, delivering, and estimated delivery
    - time_to_delivery  =  order_purchase_timestamp - order_delivered_customer_date
    - diff_estimated_delivery  =  order_estimated_delivery_date - order_delivered_customer_date
+* Group data by state, take a mean of freight_value, time_to_delivery, and, diff_estimated_delivery
+* Sort the data to get the following:
+    - Top 5 states with highest/lowest average freight value - sort in desc/asc limit 5
+    - Top 5 states with highest/lowest average time to delivery
+    - Top 5 states where delivery is speedy/ not so fast compared to the estimated date
+    - No of orders. shipping cost and delivery time over different states
+* Payment type analysis
+    - Month over Month count of orders for different payment types.
+    - EMI and Non-EMI order value split
+    - EMI and Non-EMI order count split
+* Distribution of payment installments and count of orders
+   
+
  
 
 
