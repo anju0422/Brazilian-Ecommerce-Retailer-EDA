@@ -29,6 +29,8 @@ Target is one of the world’s most recognized brands and one of America’s lea
     - EMI and Non-EMI order value split
     - EMI and Non-EMI order count split
 * Distribution of payment installments and count of orders
+
+  ## INSIGHTS & RECOMMENDATIONS
    
 
  
