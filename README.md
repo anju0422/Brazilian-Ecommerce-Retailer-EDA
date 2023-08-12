@@ -52,6 +52,8 @@ Target is one of the world’s most recognized brands and one of America’s lea
 * The data indicates the least number of orders (4740) placed during the dawn period, suggesting that it is the least preferred time 
     for online purchases among Brazilian customers.
 
+  <hr>
+
   [![Capture32.png](https://i.postimg.cc/sDYkshmF/Capture32.png)](https://postimg.cc/crJ9c6PT)
 
   The states with the highest customer counts are: -
