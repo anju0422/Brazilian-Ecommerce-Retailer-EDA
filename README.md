@@ -1,4 +1,4 @@
-# Business Case Study: E-Commerce Sales Analysis in Brazil
+# BUSINESS CASE STUDY: ## E-COMMERCE SALES ANALYSIS IN BRAZIL
 
 
 ### INTRODUCTION
@@ -33,7 +33,7 @@ Target is one of the world’s most recognized brands and one of America’s lea
 * Distribution of payment installments and count of orders
 
 
-  ### INSIGHTS:-
+  ### INSIGHTS: -
    
 
  
