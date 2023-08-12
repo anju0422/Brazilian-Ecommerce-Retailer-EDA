@@ -37,7 +37,7 @@ Target is one of the world’s most recognized brands and one of America’s lea
 <hr>
 
 
-  ### INSIGHTS: -
+### INSIGHTS: -
    
 
  
@@ -51,14 +51,14 @@ Target is one of the world’s most recognized brands and one of America’s lea
 
 <hr>
 
-  [![Capture11.png](https://i.postimg.cc/hv77TMXG/Capture11.png)](https://postimg.cc/Lg2XMtBd)
+[![Capture11.png](https://i.postimg.cc/hv77TMXG/Capture11.png)](https://postimg.cc/Lg2XMtBd)
 
 * The data shows that the highest number of orders (38,361) were placed during the afternoon, indicating that a significant portion of 
     Brazilian customers prefers to make their purchases during this time.
 * The data indicates the least number of orders (4740) placed during the dawn period, suggesting that it is the least preferred time 
     for online purchases among Brazilian customers.
 
-  <hr>
+<hr>
 
 Total no of distinct states, cities, and zip codes in which customers are present
   
@@ -66,7 +66,7 @@ Total no of distinct states, cities, and zip codes in which customers are presen
 
 <hr>
 
-  [![Capture32.png](https://i.postimg.cc/sDYkshmF/Capture32.png)](https://postimg.cc/crJ9c6PT)
+[![Capture32.png](https://i.postimg.cc/sDYkshmF/Capture32.png)](https://postimg.cc/crJ9c6PT)
 
   The states with the highest customer counts are: -
 * SP with 41,746 customers
@@ -78,12 +78,14 @@ Total no of distinct states, cities, and zip codes in which customers are presen
 * AP with 68 customers
 * RR with 46 customers
 
-  <hr>
+<hr>
 Top 10 Cities where most of the customers reside
 
 [![Capture15.png](https://i.postimg.cc/Xqxy50yc/Capture15.png)](https://postimg.cc/MfMTkN5v)
 
 <hr>
+
+
 % difference in each month of 2017 and 2018
 
 
