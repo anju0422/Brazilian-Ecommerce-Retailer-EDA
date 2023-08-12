@@ -1,4 +1,4 @@
-# EDA 
+# Business casestudy 
 SQL Project
 * THis
 * is[sk
