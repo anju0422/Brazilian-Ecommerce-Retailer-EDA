@@ -109,7 +109,7 @@ Top 10 Cities where most of the customers reside
 
 <hr>
 
- Top 5 Highest freight value State: PB → RR → RO → AC → P1
+ Top 5 Highest freight value State: PB → RR → RO → AC → PI
 
 [![Capture21.png](https://i.postimg.cc/2jMMmJh2/Capture21.png)](https://postimg.cc/F1bDVTPL)
 
