@@ -127,7 +127,7 @@ Top 5 states with the highest average delivery time (Slowest Delivery):  RR → 
 
 <hr>
 
-Top 5 states with the lowest average delivery time (Fastest Delivery): SP → PR → MG → DF → SG
+Top 5 states with the lowest average delivery time (Fastest Delivery): SP → PR → MG → DF → SC
 
 [![Capture24.png](https://i.postimg.cc/1ttFWvzq/Capture24.png)](https://postimg.cc/3ysWNCm8)
 
@@ -139,7 +139,7 @@ Top 5 states where delivery is really FAST compared to estimated delivery time: 
 
 <hr>
 
-Top 5 states where delivery is really slow compared to estimated delivery time: AL → MA → SE → ES → BA
+Top 5 states where delivery is really SLOW compared to estimated delivery time: AL → MA → SE → ES → BA
 
 [![Capture26.png](https://i.postimg.cc/26Z0cjyv/Capture26.png)](https://postimg.cc/CBwCdgjL)
 
