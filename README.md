@@ -109,13 +109,13 @@ Top 10 Cities where most of the customers reside
 
 <hr>
 
-Top 5 Highest freight value state
+ Top 5 Highest freight value State: PB → RR → RO → AC → P1
 
 [![Capture21.png](https://i.postimg.cc/2jMMmJh2/Capture21.png)](https://postimg.cc/F1bDVTPL)
 
 <hr>
 
-Top 5 Lowest freight value state
+Top 5 Lowest freight value State:  SP → PR → MG → RJ → DF
 
 [![Capture22.png](https://i.postimg.cc/yYTmn31c/Capture22.png)](https://postimg.cc/QHHKdtWd)
 
