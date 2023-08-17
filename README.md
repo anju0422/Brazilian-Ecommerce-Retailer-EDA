@@ -75,7 +75,7 @@ Total no of distinct states, cities, and zip codes in which customers are presen
 * RJ with 12,852 customers
 * MG with 11,635 customers
 
-  States with relatively lower customer counts include: -
+ The states with relatively lower customer counts are: -
 * AC with 81 customers
 * AP with 68 customers
 * RR with 46 customers
