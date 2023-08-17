@@ -108,6 +108,20 @@ Top 10 Cities where most of the customers reside
 [![Capture33.png](https://i.postimg.cc/MGP1w0k8/Capture33.png)](https://postimg.cc/qtKNX3Mm)
 
 <hr>
+
+Top 5 Highest freight value state
+
+[![Capture21.png](https://i.postimg.cc/2jMMmJh2/Capture21.png)](https://postimg.cc/F1bDVTPL)
+
+<hr>
+
+Top 5 Lowest freight value state
+
+[![Capture22.png](https://i.postimg.cc/yYTmn31c/Capture22.png)](https://postimg.cc/QHHKdtWd)
+
+<hr>
+
+
     
     
   
