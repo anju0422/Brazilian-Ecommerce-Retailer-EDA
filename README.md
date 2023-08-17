@@ -145,7 +145,7 @@ Top 5 states where delivery is really SLOW compared to estimated delivery time: 
 
 <hr>
 
-Order Status 
+Detail of Order Status 
 
 [![35.png](https://i.postimg.cc/t4VfK3BZ/35.png)](https://postimg.cc/ZW4V3dt4)
 
