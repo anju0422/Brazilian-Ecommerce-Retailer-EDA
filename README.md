@@ -121,6 +121,30 @@ Top 5 Lowest freight value State:  SP → PR → MG → RJ → DF
 
 <hr>
 
+Top 5 states with the highest average delivery time (Slowest Delivery):  RR → AP → AM → AL → PA
+
+[![Capture23.png](https://i.postimg.cc/MpQd5KLS/Capture23.png)](https://postimg.cc/ts93CyyS)
+
+<hr>
+
+Top 5 states with the lowest average delivery time (Fastest Delivery): SP → PR → MG → DF → SG
+
+[![Capture24.png](https://i.postimg.cc/1ttFWvzq/Capture24.png)](https://postimg.cc/3ysWNCm8)
+
+<hr>
+
+Top 5 states where delivery is really FAST compared to estimated delivery time: AC → RO → AP → AM → RR
+
+[![Capture25.png](https://i.postimg.cc/B6YVy7B9/Capture25.png)](https://postimg.cc/xJm5NRZt)
+
+<hr>
+
+Top 5 states where delivery is really slow compared to estimated delivery time: AL → MA → SE → ES → BA
+
+[![Capture26.png](https://i.postimg.cc/26Z0cjyv/Capture26.png)](https://postimg.cc/CBwCdgjL)
+
+<hr>
+
 
     
     
