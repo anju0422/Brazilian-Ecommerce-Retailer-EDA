@@ -103,6 +103,11 @@ Top 10 Cities where most of the customers reside
 
 [![Capture17.png](https://i.postimg.cc/Y24PrqYx/Capture17.png)](https://postimg.cc/yWHjnKfJ)
 <hr>
+
+
+[![Capture33.png](https://i.postimg.cc/MGP1w0k8/Capture33.png)](https://postimg.cc/qtKNX3Mm)
+
+<hr>
     
     
   
