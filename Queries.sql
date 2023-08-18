@@ -43,9 +43,15 @@ FROM target-biz-casestudy.Target.INFORMATION_SCHEMA.COLUMNS;
 SELECT
 MIN(EXTRACT(DATE FROM order_purchase_timestamp)) AS first_date_of_dataset,
 MAX(EXTRACT(DATE FROM order_purchase_timestamp)) AS first_date_of_dataset,
-CONCAT(ROUND(DATE_DIFF(MAX(EXTRACT(DATE FROM order_purchase_timestamp)),
-MIN(EXTRACT(DATE FROM order_purchase_timestamp)),day)/365,2)," ","Years") AS DURATION
-FROM `Target.orders`;
+CONCAT(
+      ROUND(
+          DATE_DIFF(
+                     MAX(EXTRACT(DATE FROM order_purchase_timestamp)),
+                     MIN(EXTRACT(DATE FROM order_purchase_timestamp)),
+                     day)/365,2)," ","Years") 
+          AS DURATION
+FROM 
+     `Target.orders`;
      
 /* Count the Cities & States of customers who ordered during the given period */
 
@@ -108,7 +114,7 @@ ORDER BY Years, Months;
 
 WITH CTE AS(
      SELECT
-	 order_id,
+         order_id,
      CASE
          WHEN EXTRACT(HOUR FROM order_purchase_timestamp ) >= 0 AND 
          EXTRACT(HOUR FROM order_purchase_timestamp) < 6 THEN 
@@ -131,3 +137,5 @@ WITH CTE AS(
   FROM CTE 
   GROUP BY time_of_day
   ORDER BY total_orders DESC;
+
+     
