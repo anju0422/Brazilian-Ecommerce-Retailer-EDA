@@ -161,6 +161,16 @@ Details of Order Status
 
 <hr>
 
+[![Capture38.png](https://i.postimg.cc/FRQF7H2H/Capture38.png)](https://postimg.cc/KKJhWxG6)
+
+* Customers predominantly use credit cards for payments, followed by UPI and vouchers. This indicates a higher level of trust and 
+  the convenience associated with credit card transactions.
+* The relatively lower count of orders made with debit cards might suggest that customers are more inclined toward credit cards or 
+  digital wallets for online transactions.
+
+<hr>
+  
+
 
     
     
