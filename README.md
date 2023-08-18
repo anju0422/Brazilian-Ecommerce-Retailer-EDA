@@ -152,6 +152,16 @@ Details of Order Status
 <hr>
 
 
+[![Capture36.png](https://i.postimg.cc/j2xGzSn4/Capture36.png)](https://postimg.cc/KkWqbFN1)
+
+* The majority of customers prefer to pay for their orders in one installment, as it has the highest number of orders (52,546).
+* The second most popular payment option is two installments (12,413 orders), followed by three installments (10,461 orders).
+* There is a gradual decline in the number of orders as the number of payment installments increases. This suggests that customers 
+  generally prefer fewer installments for their payments.
+
+<hr>
+
+
     
     
   
