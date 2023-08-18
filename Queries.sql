@@ -43,15 +43,9 @@ FROM target-biz-casestudy.Target.INFORMATION_SCHEMA.COLUMNS;
 SELECT
 MIN(EXTRACT(DATE FROM order_purchase_timestamp)) AS first_date_of_dataset,
 MAX(EXTRACT(DATE FROM order_purchase_timestamp)) AS first_date_of_dataset,
-CONCAT(
-      ROUND(
-          DATE_DIFF(
-                     MAX(EXTRACT(DATE FROM order_purchase_timestamp)),
-                     MIN(EXTRACT(DATE FROM order_purchase_timestamp)),
-                     day)/365,2)," ","Years") 
-          AS DURATION
-FROM 
-     `Target.orders`;
+CONCAT(ROUND(DATE_DIFF(MAX(EXTRACT(DATE FROM order_purchase_timestamp)),
+MIN(EXTRACT(DATE FROM order_purchase_timestamp)),day)/365,2)," ","Years") AS DURATION
+FROM `Target.orders`;
      
 /* Count the Cities & States of customers who ordered during the given period */
 
