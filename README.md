@@ -169,6 +169,10 @@ Details of Order Status
   digital wallets for online transactions.
 
 <hr>
+
+[![Capture39.png](https://i.postimg.cc/vmbRx2Q5/Capture39.png)](https://postimg.cc/mPXp0w1r)
+
+<hr>
   
 
 
