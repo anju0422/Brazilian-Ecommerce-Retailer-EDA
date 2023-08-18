@@ -152,6 +152,18 @@ Details of Order Status
 <hr>
 
 
+[![Capture39.png](https://i.postimg.cc/vmbRx2Q5/Capture39.png)](https://postimg.cc/mPXp0w1r)
+
+
+<hr>
+
+
+[![Capture40.png](https://i.postimg.cc/TPSRSyBt/Capture40.png)](https://postimg.cc/xkvDNdfm)
+
+
+<hr>
+
+
 [![Capture36.png](https://i.postimg.cc/j2xGzSn4/Capture36.png)](https://postimg.cc/KkWqbFN1)
 
 * The majority of customers prefer to pay for their orders in one installment, as it has the highest number of orders (52,546).
@@ -169,20 +181,8 @@ Details of Order Status
   digital wallets for online transactions.
 
 <hr>
-
-[![Capture39.png](https://i.postimg.cc/vmbRx2Q5/Capture39.png)](https://postimg.cc/mPXp0w1r)
-
-<hr>
-
-[![Capture40.png](https://i.postimg.cc/TPSRSyBt/Capture40.png)](https://postimg.cc/xkvDNdfm)
-
-
-<hr>
   
 
-
-    
-    
   
 ### RECOMMENDATION(S): -
 * Leverage Seasonal Peaks: Take advantage of the seasonal peaks observed, particularly in November 2017, January 2018, and March 2018. Plan targeted marketing campaigns, offer attractive promotions, and ensure sufficient stock availability during these periods to maximize sales potential.
