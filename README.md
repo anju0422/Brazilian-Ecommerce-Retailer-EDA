@@ -189,9 +189,9 @@ Details of Order Status
 * Analyze Low-Performing Months: Evaluate the factors contributing to the low order counts in September, October, and December 2016. Identify any potential issues, such as product availability, pricing, or marketing strategies, and make necessary adjustments to improve performance during those months.
 * Optimize for Afternoontime Shopping: Considering that the afternoon is the most popular time for purchases, We should ensure that 
 our website and mobile app are optimized for smooth and efficient browsing and ordering during afternoon time hours.
-* Focus on maintaining fast and efficient delivery services in the top-performing states (AC, RO, AP, AM, RR) to meet and exceed 
+* Focus on maintaining fast and efficient delivery services in the top-performing states (SP, RJ, MG, RS, PR) to meet and exceed 
 customer expectations.
-* Analyze the delivery process in the states with slower delivery times (AL, MA, SE, ES, BA) to identify bottlenecks and areas for 
+* Analyze the delivery process in the states with slower delivery times (RR, AP, AM, AL, PA) to identify bottlenecks and areas for 
 improvement.
 * Monitor and analyze customer feedback and satisfaction related to payment options to identify areas for improvement or additional 
 payment features that can enhance the overall customer experience.
