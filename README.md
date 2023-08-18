@@ -173,6 +173,11 @@ Details of Order Status
 [![Capture39.png](https://i.postimg.cc/vmbRx2Q5/Capture39.png)](https://postimg.cc/mPXp0w1r)
 
 <hr>
+
+[![Capture40.png](https://i.postimg.cc/TPSRSyBt/Capture40.png)](https://postimg.cc/xkvDNdfm)
+
+
+<hr>
   
 
 
